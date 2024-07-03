@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi, I'm George Abraham! 👋
 
 <!--
 **ga28299/ga28299** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🚀 About Me
+I am a passionate Data Scientist and Machine Learning Engineer with a strong background in computer engineering.
